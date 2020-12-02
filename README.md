@@ -1,6 +1,6 @@
-***** Big Data Project
+Big Data Project
 
-***** Input File
+ Input File
 - Refered Dr.case repo ((https://github.com/denisecase/setup-spark) for input file.
 - Downloaded spark into the local machine by follwing the instruction provided by Dr.case in the repo.(https://github.com/denisecase/setup-spark).
 - Open Powershell as Administrator and start Spark with Scala:
