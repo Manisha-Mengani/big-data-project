@@ -30,8 +30,8 @@ exportResults(new File("D:/output.txt")) { p =>
 |   data.foreach(p.println)
 | }
 ```
-
-
+### Visualizing data using excel
+<img src="./WCResult.JPG" width="250"/>
 
 
 
