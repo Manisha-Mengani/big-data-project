@@ -24,8 +24,9 @@
 ### Visualizing data using excel
 <img src="./WCResult.JPG"/>
 
-References:
-https://github.com/denisecase/setup-spark
-https://spark.apache.org/docs/latest/rdd-programming-guide.html#basics
+### References:
+- https://github.com/denisecase/setup-spark
+- https://spark.apache.org/docs/latest/rdd-programming-guide.html#basics
+- https://www.tutorialspoint.com/apache_spark/apache_spark_rdd.htm
 
 
