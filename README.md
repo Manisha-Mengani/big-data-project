@@ -31,7 +31,7 @@ exportResults(new File("D:/output.txt")) { p =>
 | }
 ```
 ### Visualizing data using excel
-<img src="./WCResult.JPG" width="250"/>
+<img src="./WCResult.JPG"/>
 
 
 
