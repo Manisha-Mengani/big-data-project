@@ -21,17 +21,11 @@
 ### step 5: performing sort by for top results
 ``` scala> val resOrderbysorting = resWC.sortBy(_._2,false).take(10) ```
 
-### step 6 : copying results from shell to textfile
-``` def exportResults(f: java.io.File)(op: java.io.PrintWriter => Unit) {
-|   val p = new java.io.PrintWriter(f)
-|   try { op(p) } finally { p.close() }
-| }
-exportResults(new File("D:/output.txt")) { p =>
-|   data.foreach(p.println)
-| }
-```
 ### Visualizing data using excel
 <img src="./WCResult.JPG"/>
 
+References:
+https://github.com/denisecase/setup-spark
+https://spark.apache.org/docs/latest/rdd-programming-guide.html#basics
 
 
